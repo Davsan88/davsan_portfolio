@@ -4,9 +4,9 @@ const header = {
 }
 
 const about = {
-  name: 'Dav Sanchez',
+  name: 'David Sanchez',
   role: 'Front End Developer',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  picture: '',
 
   description:
     'I focus on building clean, responsive, and user-driven applications. I work mainly with JavaScript, React, and modern CSS — turning ideas into real, interactive experiences.',
@@ -25,7 +25,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Davsan88/quizzical-react',
     livePreview: 'https://quizzical-davsan.netlify.app/',
-    image: 'cleanfolio.png',
+    // image: 'cleanfolio.png',
   },
   {
     name: 'Assembly: Endgame',
@@ -36,7 +36,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Davsan88/hangman-react/tree/main',
     livePreview: 'https://assembly-davsan.netlify.app/',
-    image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
+    // image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
   },
   {
     name: 'Show Watchlist App',
