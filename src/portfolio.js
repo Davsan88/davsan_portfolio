@@ -1,3 +1,7 @@
+import quizzicalImage from './assets/images/quizzical.png'
+import assemblyImage from './assets/images/assembly.png'
+import watchlistImage from './assets/images/watchlist.png'
+
 const header = {
   homepage: 'https://davsan88.netlify.app/',
   title: 'DS.',
@@ -10,7 +14,7 @@ const about = {
 
   description:
     'I focus on building clean, responsive, and user-driven applications. I work mainly with JavaScript, React, and modern CSS — turning ideas into real, interactive experiences.',
-  resume: 'https://example.com',
+  resume: '',
   social: {
     linkedin: 'https://www.linkedin.com/in/david-sanchez-1995ab268/',
     github: 'https://github.com/Davsan88',
@@ -25,7 +29,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Davsan88/quizzical-react',
     livePreview: 'https://quizzical-davsan.netlify.app/',
-    // image: 'cleanfolio.png',
+    image: quizzicalImage
   },
   {
     name: 'Assembly: Endgame',
@@ -36,7 +40,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Davsan88/hangman-react/tree/main',
     livePreview: 'https://assembly-davsan.netlify.app/',
-    // image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
+    image: assemblyImage
   },
   {
     name: 'Show Watchlist App',
@@ -45,6 +49,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'TMDB API'],
     sourceCode: 'https://github.com/Davsan88/movie-watchlist-app',
     livePreview: 'https://watchlist-app-davsan.netlify.app/',
+    image: watchlistImage
   },
 ]
 
