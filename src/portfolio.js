@@ -32,6 +32,15 @@ const projects = [
     image: quizzicalImage
   },
   {
+    name: 'Vanlife',
+    description:
+      `VanLife is a responsive campervan marketplace and host dashboard built with React Router, that lets visitors can browse campervans, filter the catalogue by type, and view individual listings. A simple authentication flow unlocks a protected host area with a dashboard, income, reviews, and nested views for managing listed vans.`,
+    stack: ['CSS3', 'JavaScript', 'React', 'React Router'],
+    sourceCode: 'https://github.com/Davsan88/vanlife-react-router',
+    livePreview: 'https://vanlife-davsan.netlify.app/',
+    image: quizzicalImage
+  },
+  {
     name: 'Assembly: Endgame',
     description:
       `This is a React word-guessing game inspired by Hangman.
