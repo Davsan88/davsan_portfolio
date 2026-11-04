@@ -1,6 +1,7 @@
 import quizzicalImage from './assets/images/quizzical.png'
 import assemblyImage from './assets/images/assembly.png'
 import watchlistImage from './assets/images/watchlist.png'
+import vanlifeImage from './assets/images/vanlife.png'
 
 const header = {
   homepage: 'https://davsan88.netlify.app/',
@@ -38,7 +39,7 @@ const projects = [
     stack: ['CSS3', 'JavaScript', 'React', 'React Router'],
     sourceCode: 'https://github.com/Davsan88/vanlife-react-router',
     livePreview: 'https://vanlife-davsan.netlify.app/',
-    image: quizzicalImage
+    image: vanlifeImage
   },
   {
     name: 'Assembly: Endgame',
