@@ -6,22 +6,22 @@
 }
 
 .light {
-  --clr-bg: #F6F9FB;      
-  --clr-bg-alt: #E8EFF3;   
-  --clr-bg-pro: #FFFFFF;   
-  --clr-fg: #30485A;       
-  --clr-fg-alt: #082032;     
+  --clr-bg: #F6F9FB;
+  --clr-bg-alt: #E8EFF3;
+  --clr-bg-pro: #FFFFFF;
+  --clr-fg: #30485A;
+  --clr-fg-alt: #082032;
   --clr-primary: #C23D25;
 
   --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .dark {
-  --clr-bg: #082032;       
-  --clr-bg-alt: #2C394B; 
+  --clr-bg: #082032;
+  --clr-bg-alt: #2C394B;
   --clr-bg-pro: #142B3E;
-  --clr-fg: #BCCCD7;     
-  --clr-fg-alt: #E1F0F9; 
+  --clr-fg: #BCCCD7;
+  --clr-fg-alt: #E1F0F9;
   --clr-primary: #FF4C29;
 
   --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
